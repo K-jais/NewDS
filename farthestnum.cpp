@@ -1,5 +1,7 @@
 geeks for geeks
 
+ismein ye kiya ki last se uss number tak ke lowest ko store karliya aur phir binary search laga diya. 
+
 
 // C++ implementation of the approach
 #include <bits/stdc++.h>
